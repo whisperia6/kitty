@@ -1,19 +1,7 @@
 # kitty
 
 
-### 技术交流
 
-为了方便大家提问和技术交流，整了个QQ群，欢迎童鞋们加入。
-
-QQ技术交流群： 528818161
-
-### 博客教程
-
-本人技术博客提供同步系列文章教程, 讲解了Kitty从零开始搭建的全过程：
-
-[Vue.js + Element UI 实现权限管理系统 前端篇](https://www.cnblogs.com/xifengxiaoma/p/9533018.html)
-
-[Spring Boot + Spring Cloud 实现权限管理系统 后端篇](https://www.cnblogs.com/xifengxiaoma/p/9474953.html)
 
 ### 分支说明
 
@@ -32,8 +20,6 @@ QQ技术交流群： 528818161
 - Kitty是基于Spring Boot、Spring Cloud、Vue、Element实现的Java快速开发平台。
 
 - 目标是搭建出一套简洁易用的快速解决方案，可以帮助用户有效降低项目开发难度和成本。
-
-- 个人博客提供本项目开发过程同步系列教程文章，手把手的教你如何开发同类系统。
 
 ### 功能列表
 
@@ -59,12 +45,6 @@ QQ技术交流群： 528818161
 - ✘ 单点登录：利用 OAuth2, 提供统一的单点登录功能
 - ✘ 系统登录：集成第三方登录功能（QQ、微信、微博）
 - ...
-
-### 代码生成器
-
-代码生成器放在独立项目，地址如下：
-
-[https://gitee.com/liuge1988/kitty-generator](https://gitee.com/liuge1988/kitty-generator)
 
 
 ### 软件架构
@@ -143,7 +123,7 @@ kitty-ui
 
 1. 下载源码
 
-    git clone https://gitee.com/liuge1988/kitty.git
+    git clone https://github.com/whisperia6/kitty.git
 
 2. 导入工程
 
@@ -191,7 +171,7 @@ kitty-ui
 
 1. 下载源码
 
-    git clone https://gitee.com/liuge1988/kitty-ui.git
+    git clone https://github.com/whisperia6/kitty-ui.git
 
 2. 编译代码
 
@@ -284,13 +264,3 @@ kitty-ui
 2. 新建 Feat_xxx 分支
 3. 提交代码
 4. 新建 Pull Request
-
-
-### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [http://git.mydoc.io/](http://git.mydoc.io/)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
